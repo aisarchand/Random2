@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cabs near me", "cabs near me\cabs near me.csproj", "{D351EAEC-D63E-42D8-B8EA-DF040995EC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D351EAEC-D63E-42D8-B8EA-DF040995EC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D351EAEC-D63E-42D8-B8EA-DF040995EC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D351EAEC-D63E-42D8-B8EA-DF040995EC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D351EAEC-D63E-42D8-B8EA-DF040995EC42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10AF2201-A637-4C6A-AD25-211E32210A6C}
+	EndGlobalSection
+EndGlobal
